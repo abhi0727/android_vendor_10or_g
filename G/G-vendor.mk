@@ -61,8 +61,7 @@ PRODUCT_COPY_FILES += \
     vendor/10or/G/proprietary/vendor/lib/libIAFalSDE1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libIAFalSDE1.so \
     vendor/10or/G/proprietary/vendor/lib/libIQM_OTP_Correction.so:$(TARGET_COPY_OUT_VENDOR)/lib/libIQM_OTP_Correction.so \
     vendor/10or/G/proprietary/vendor/lib/libIQ_Match_Lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libIQ_Match_Lib.so \
-    vendor/10or/G/proprietary/vendor/lib/libalCMotion.so:$(TARGET_COPY_OUT_VENDOR)/lib/hacker \
-    vendor/10or/G/proprietary/vendor/lib/hacker:$(TARGET_COPY_OUT_VENDOR)/lib/libalCMotion.so \
+    vendor/10or/G/proprietary/vendor/lib/libalCMotion.so:$(TARGET_COPY_OUT_VENDOR)/lib/libalCMotion.so \
     vendor/10or/G/proprietary/vendor/lib/libalColorMono.so:$(TARGET_COPY_OUT_VENDOR)/lib/libalColorMono.so \
     vendor/10or/G/proprietary/vendor/lib/libarcsoft_beautyshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_beautyshot.so \
     vendor/10or/G/proprietary/vendor/lib/libfcell.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfcell.so \
