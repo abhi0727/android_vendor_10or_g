@@ -155,7 +155,7 @@ PRODUCT_COPY_FILES += \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_ov16885_sunny_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16885_sunny_common.so \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_ov16885_sunny_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16885_sunny_cpp_hfr_60.so \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_ov16885_sunny_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16885_sunny_cpp_hfr_90.so \
-    vendor/10or/G/proprietary/vendor/lib/libchromatix_ov16885_sunny_cpp_hfr_120:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16885_sunny_cpp_hfr_120 \
+    vendor/10or/G/proprietary/vendor/lib/libchromatix_ov16885_sunny_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16885_sunny_cpp_hfr_120.so \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_ov16885_sunny_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16885_sunny_cpp_liveshot.so \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_ov16885_sunny_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16885_sunny_cpp_preview.so \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_ov16885_sunny_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16885_sunny_cpp_snapshot.so \
@@ -175,7 +175,7 @@ PRODUCT_COPY_FILES += \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_ov16885_sunny_zsl_preview_nolens.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16885_sunny_zsl_preview_nolens.so \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_ov16885_sunny_zsl_video_nolens.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16885_sunny_zsl_video_nolens.so \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_s5k3p8_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8_common.so \
-    vendor/10or/G/proprietary/vendor/lib/libchromatix_s5k3p8_cpp_hfr_60.so :$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8_cpp_hfr_60.so \
+    vendor/10or/G/proprietary/vendor/lib/libchromatix_s5k3p8_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8_cpp_hfr_60.so \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_s5k3p8_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8_cpp_hfr_90.so \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_s5k3p8_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8_cpp_hfr_120.so \
     vendor/10or/G/proprietary/vendor/lib/libchromatix_s5k3p8_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8_cpp_liveshot.so \
