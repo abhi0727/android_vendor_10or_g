@@ -235,7 +235,8 @@ PRODUCT_COPY_FILES += \
     vendor/10or/G/proprietary/vendor/lib/libgf_ca.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgf_ca.so \
     vendor/10or/G/proprietary/vendor/lib/libgf_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgf_hal.so \
     vendor/10or/G/proprietary/vendor/lib/libgoodixfingerprintd_binder.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgoodixfingerprintd_binder.so \
-    vendor/10or/G/proprietary/vendor/lib64/hw/consumerir.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.msm8953.so \
+    vendor/10or/G/proprietary/vendor/lib/libOmxVideoDSMode-shim.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxVideoDSMode-shim.so \
+    vendor/10or/G/proprietary/vendor/lib64/libOmxVideoDSMode-shim.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxVideoDSMode-shim.so \
     vendor/10or/G/proprietary/vendor/lib64/hw/fingerprint.fpc.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.fpc.msm8953.so \
     vendor/10or/G/proprietary/vendor/lib64/hw/fingerprint.goodix.msm8953.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.goodix.msm8953.so \
     vendor/10or/G/proprietary/vendor/lib64/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_fpc_tac_shared.so \
